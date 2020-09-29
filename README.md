@@ -5,4 +5,8 @@ make_test.py utilises a method defined in my own module gt_module_1.py. I did th
 
 run_cycle.py is a script which runs the scripts one by one from the terminal. BUG - currently the scores CSV doesn't populate any scores when run_cycle.py executes the mark_tests.py script. If I run the scripts one by one in Sublime, it works. I need to solve this issue.
 
-The purpose of this project is to learn how to wield mutliple scripts in one project.
+The objectives on this project are
+- Learn how to wield multiple scripts in one project
+- Develop automation skills
+- Develop skills in file/folder creation and navigation
+- Use my own module and method
